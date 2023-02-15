@@ -9,5 +9,5 @@
 // To import modules :
 //         -> const name  = require(filepath)
 
-// Destructuring in Importing or using in function:
+// Destructuring in Importing or using in:
 //         -> Either by { exporting names } or name.exportvalue( function(name.exportvalue))
